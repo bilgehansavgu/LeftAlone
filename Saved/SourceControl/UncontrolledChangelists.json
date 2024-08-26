@@ -13,17 +13,14 @@
 				"C:/Users/John/Documents/Unreal Projects/WalkingSimTemplate/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
 				"C:/Users/John/Documents/Unreal Projects/WalkingSimTemplate/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/9/L8/1PY8FAVMZ61JF47EGWZEDF.uasset",
 				"C:/Users/John/Documents/Unreal Projects/WalkingSimTemplate/Content/SaveGame/BP_Checkpoint.uasset",
-				"C:/Users/John/Documents/Unreal Projects/WalkingSimTemplate/Content/FirstPerson/Blueprints/Trash/BP_APawn.uasset",
 				"C:/Users/John/Documents/Unreal Projects/WalkingSimTemplate/Content/FirstPerson/Blueprints/BP_Custom_GameMode.uasset",
 				"C:/Users/John/Documents/Unreal Projects/WalkingSimTemplate/Content/FirstPerson/Blueprints/BP_FirstPersonGameMode.uasset",
 				"C:/Users/John/Documents/Unreal Projects/WalkingSimTemplate/Content/FirstPerson/Blueprints/BP_FirstPersonPlayerController.uasset",
-				"C:/Users/John/Documents/Unreal Projects/WalkingSimTemplate/Content/PickupSystem/Devs/Mid/Trash/BP_APawn.uasset",
 				"C:/Users/John/Documents/Unreal Projects/WalkingSimTemplate/Content/Devs/Mid/Trash/BP_APawn.uasset",
 				"C:/Users/John/Documents/Unreal Projects/WalkingSimTemplate/Content/__ExternalActors__/Devs/Mid/MainMap/D/DA/YL2RPZT735CHPKYR4E38US.uasset",
 				"C:/Users/John/Documents/Unreal Projects/WalkingSimTemplate/Content/__ExternalActors__/Devs/Mid/MainMap/B/9L/FQIGW2W4BVDVFWT886GHUT.uasset",
 				"C:/Users/John/Documents/Unreal Projects/WalkingSimTemplate/Content/__ExternalActors__/Devs/Mid/MainMap/3/ZS/2FKYBHA2PS25I93O5B78I5.uasset",
 				"C:/Users/John/Documents/Unreal Projects/WalkingSimTemplate/Content/__ExternalActors__/Devs/Mid/MainMap/C/JW/W20OW7347HH4R8K2HHPWEN.uasset",
-				"C:/Users/John/Documents/Unreal Projects/WalkingSimTemplate/Content/__ExternalActors__/Devs/Mid/MainMap/1/GA/BZUYXF30O60WOD00W5N75Z.uasset",
 				"C:/Users/John/Documents/Unreal Projects/WalkingSimTemplate/Content/__ExternalActors__/Devs/Mid/MainMap/8/KT/L2INFFTAK2XOL8TAYWBXGO.uasset",
 				"C:/Users/John/Documents/Unreal Projects/WalkingSimTemplate/Content/__ExternalActors__/Devs/Mid/MainMap/B/QV/1AHKOHLPHOJKTC1H5JFN9J.uasset",
 				"C:/Users/John/Documents/Unreal Projects/WalkingSimTemplate/Content/__ExternalActors__/Devs/Mid/MainMap/5/QH/QLQTYS84LVS6DJXJ8F16QX.uasset",
@@ -35,6 +32,11 @@
 				"C:/Users/John/Documents/Unreal Projects/WalkingSimTemplate/Content/__ExternalObjects__/Devs/Mid/MainMap/7/DO/BJ7849VXPJ1MM6H975OMP6.uasset",
 				"C:/Users/John/Documents/Unreal Projects/WalkingSimTemplate/Content/__ExternalObjects__/Devs/Mid/MainMap/B/8R/WPXR8IOLTZ0PG16O48XT77.uasset",
 				"C:/Users/John/Documents/Unreal Projects/WalkingSimTemplate/Content/Devs/Mid/MainMap.umap",
+				"C:/Users/John/Documents/Unreal Projects/WalkingSimTemplate/Content/LevelPrototyping/Meshes/SM_Cube.uasset",
+				"C:/Users/John/Documents/Unreal Projects/WalkingSimTemplate/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/RN/55P1SMQLAF7OK6300D5I8N.uasset",
+				"C:/Users/John/Documents/Unreal Projects/WalkingSimTemplate/Content/FirstPerson/Blueprints/Trash/BP_APawn.uasset",
+				"C:/Users/John/Documents/Unreal Projects/WalkingSimTemplate/Content/PickupSystem/Devs/Mid/Trash/BP_APawn.uasset",
+				"C:/Users/John/Documents/Unreal Projects/WalkingSimTemplate/Content/__ExternalActors__/Devs/Mid/MainMap/1/GA/BZUYXF30O60WOD00W5N75Z.uasset",
 				"C:/Users/John/Documents/Unreal Projects/WalkingSimTemplate/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/4/G2/DXY1ROMU8NVTUPH999VNGV.uasset",
 				"C:/Users/John/Documents/Unreal Projects/WalkingSimTemplate/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/80/RCXALNT3NG94XMV0V6D4XE.uasset",
 				"C:/Users/John/Documents/Unreal Projects/WalkingSimTemplate/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/CW/6HT16P8P5RAXNJG3EVYWE9.uasset",
@@ -87,8 +89,7 @@
 				"C:/Users/John/Documents/Unreal Projects/WalkingSimTemplate/Content/__ExternalObjects__/FirstPerson/Maps/FirstPersonMap/8/9P/KRNGZ1PU2Y3ACDDE2D2XC5.uasset",
 				"C:/Users/John/Documents/Unreal Projects/WalkingSimTemplate/Content/__ExternalObjects__/FirstPerson/Maps/FirstPersonMap/D/PH/WQFJJGR81PTWACYGUC1CP5.uasset",
 				"C:/Users/John/Documents/Unreal Projects/WalkingSimTemplate/Content/__ExternalObjects__/FirstPerson/Maps/FirstPersonMap/7/ZX/JUGNISA5MV8V8FE530PDPQ.uasset",
-				"C:/Users/John/Documents/Unreal Projects/WalkingSimTemplate/Content/__ExternalObjects__/FirstPerson/Maps/FirstPersonMap/A/JH/8TTAOMHN06NOHWGDJXKH1N.uasset",
-				"C:/Users/John/Documents/Unreal Projects/WalkingSimTemplate/Content/LevelPrototyping/Meshes/SM_Cube.uasset"
+				"C:/Users/John/Documents/Unreal Projects/WalkingSimTemplate/Content/__ExternalObjects__/FirstPerson/Maps/FirstPersonMap/A/JH/8TTAOMHN06NOHWGDJXKH1N.uasset"
 			]
 		}
 	]
